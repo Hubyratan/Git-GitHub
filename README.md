@@ -1,3 +1,3 @@
-# Hello, Word!
- Primeiro Repositorio.
+# Hello, World!
+ Primeiro Repositório.
  
